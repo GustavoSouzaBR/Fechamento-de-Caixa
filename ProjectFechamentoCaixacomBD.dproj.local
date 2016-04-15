@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/05/18 22:54:47.000.833,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/22 09:37:38.000.791,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/22 10:48:24.000.836,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/06/03 12:55:15.000.169,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/06/12 17:31:27.000.789,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/07/07 09:57:33.000.250,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/08/12 11:39:29.000.367,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/08 13:32:16.000.623,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/10 10:07:46.000.105,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/25 13:20:25.000.598,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/25 13:31:18.000.677,C:\Users\Gustavo\Desktop\Delphi\Projetos\Fechamento de Caixa Central\u_telaprincipal_fechamentoCaixa.pas=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/25 13:31:18.000.677,C:\Users\Gustavo\Desktop\Delphi\Projetos\Fechamento de Caixa Central\u_telaprincipal_fechamentoCaixa.dfm=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/09/25 13:35:39.000.634,C:\Users\Gustavo\Desktop\Delphi\Projetos\Fechamento de Caixa Central\ProjectFechamentoCaixacomBD.dproj=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/10/19 16:42:23.000.406,=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/19 16:52:01.000.438,C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\u_telaMenu.pas=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/19 16:52:01.000.438,C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\u_telaMenu.dfm=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.dfm</Transaction>
+    <Transaction>2015/10/19 17:03:42.000.475,=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/19 17:09:55.000.917,C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\u_cadFuncionarios.dfm=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.dfm</Transaction>
+    <Transaction>2015/10/19 17:09:55.000.917,C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\u_cadFuncionarios.pas=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/19 18:08:15.000.033,=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/19 18:15:44.000.175,C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\u_buscalancloja.dfm=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.dfm</Transaction>
+    <Transaction>2015/10/19 18:15:44.000.175,C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\u_buscalancloja.pas=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/22 15:43:21.000.391,=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/22 16:05:53.000.894,C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\U_BuscaLancamento.pas</Transaction>
+    <Transaction>2015/10/22 16:05:53.000.894,C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.dfm=C:\Users\Gustavo\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\U_BuscaLancamento.dfm</Transaction>
+    <Transaction>2015/10/28 14:34:26.000.414,=C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/28 14:56:31.000.714,C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas=C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\U_Rel_FechDiario.pas</Transaction>
+    <Transaction>2015/10/28 14:56:31.000.714,C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.dfm=C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\U_Rel_FechDiario.dfm</Transaction>
+    <Transaction>2015/10/28 15:58:42.000.196,=C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+    <Transaction>2015/10/28 16:11:07.000.204,C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\U_rel_men_FechDiario.dfm=C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.dfm</Transaction>
+    <Transaction>2015/10/28 16:11:07.000.204,C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\U_rel_men_FechDiario.pas=C:\Users\Gustavo Souza\Documents\MEGA\Projetos Delphi\Fechamento de Caixa Central\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
